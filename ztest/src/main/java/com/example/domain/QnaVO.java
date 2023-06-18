@@ -10,4 +10,5 @@ public class QnaVO {
 	private String answer;
 	private String manager;
 	// 당겨받기
+	// 컨플릭트 해결
 }
