@@ -9,5 +9,5 @@ public class QnaVO {
 	private String writer;
 	private String answer;
 	private String manager;
-	// 수정작업 확인
+	// 당겨받기
 }
