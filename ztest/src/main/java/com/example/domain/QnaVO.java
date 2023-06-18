@@ -11,4 +11,5 @@ public class QnaVO {
 	private String manager;
 	// 당겨받기
 	// 컨플릭트 해결
+	// history 펼치기
 }
