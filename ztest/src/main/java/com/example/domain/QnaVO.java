@@ -13,4 +13,5 @@ public class QnaVO {
 	// 컨플릭트 해결
 	// history 펼치기
 	// 다시한번
+	
 }
