@@ -16,6 +16,7 @@
     <div class="jumbotron">
   	<h1>Hello, world!  가나다라마바사</h1>
   	<p>...풉풉풉 그만 졸아</p>
+  	<p>...정신차려 정민아!!! Сука!!!!</p>
   	<p><a class="btn btn-primary btn-lg" href="/qna/write" role="button">글쓰기</a>
   	<a class="btn btn-primary btn-lg" href="/qna/qnalist" role="button">목록보기</a></p>
 	</div>
