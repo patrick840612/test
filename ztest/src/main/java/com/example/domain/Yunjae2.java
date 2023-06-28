@@ -6,7 +6,7 @@ public class Yunjae2 {
 	// 니가 몬대 나한테 알밥을 머그래
 	// 오므라이스도 알밥도 맛있다
 
-	// 윤미는 바보라는 뜻
+	// 윤미는 바보라는 뜻333333333
 	private String yoonmibabo;
 	
 	
