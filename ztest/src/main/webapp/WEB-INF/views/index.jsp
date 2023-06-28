@@ -5,7 +5,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>부트스트랩 101 템플릿</title>
+
+    <title>정민님이 바꾸신 타이틀</title>
+
 
     <!-- 부트스트랩 -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -14,8 +16,9 @@
   <body>
   <!--  #############################  -->
     <div class="jumbotron">
-  	<h1>Hello, world!</h1>
-  	<p>...</p>
+  	<h1>Hello, world!  가나다라마바사</h1>
+  	<p>...풉풉풉 그만 졸아</p>
+  	<p>...정신차려 정민아!!! Сука!!!!</p>
   	<p><a class="btn btn-primary btn-lg" href="/qna/write" role="button">글쓰기</a>
   	<a class="btn btn-primary btn-lg" href="/qna/qnalist" role="button">목록보기</a></p>
 	</div>
