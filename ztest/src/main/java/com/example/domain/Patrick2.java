@@ -2,9 +2,7 @@ package com.example.domain;
 
 public class Patrick2 {
 
-	
-	//******
-	
-	// 예압
-	// 병훈형님 최고!
+	// 에아아아아아압
+	// 민준형 최고!
+
 }
