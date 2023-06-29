@@ -1,6 +1,5 @@
 package com.example.domain;
 
 public class Test222 {
-	// fault 수정 같은파일
-
+// main에서 같은 파일 수정
 }
