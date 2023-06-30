@@ -3,13 +3,13 @@
 "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <!-- ** 매퍼명 : DAO 클래스명 동일 -->
-<mapper namespace="com.example.dao.QnaDAO">
+<mapper namespace="com.example.dao.CommunityDAO">
 
-	<insert id="saveQna" parameterType="QnaVO">
+	<insert id="saveQna" parameterType="CommunityVO">
 		insert into temp (question,writer) values (#{question},#{writer})
 	</insert>
 	
-	<select id="listQna" resultType="QnaVO">
+	<select id="listQna" resultType="CommunitytVO">
 		select * from temp
 	</select>
 	
@@ -17,7 +17,7 @@
 		select * from temp where no=#{no}
 	</select>
 	
-	<update id="answerQna" parameterType="QnaVO">
+	<update id="answerQna" parameterType="CommunityVO">
 		update temp set answer=#{answer}, manager=#{manager} where no=#{no}
 	</update>
 
